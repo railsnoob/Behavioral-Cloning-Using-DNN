@@ -7,12 +7,14 @@ In thie project I create a Deep Learning based autonomous control system that ca
 
 ## Goals
 <img style="float: right;" src="./center_driving_middle.jpg">
+
 The goals / steps of this project are the following:
-* Use the simulator to collect data of good driving behavior
-* Build, a convolution neural network in Keras that predicts steering angles from images
-* Train and validate the model with a training and validation set
-* Test that the model successfully drives around track one without leaving the road
-* Iterate on the network and the data to make a better driving car.
+
+1. Use the simulator to collect data of good driving behavior
+2. Build, a convolution neural network in Keras that predicts steering angles from images
+3. Train and validate the model with a training and validation set
+4. Test that the model successfully drives around track one without leaving the road
+5.Iterate on the network and the data to make a better driving car.
 
 ## Code
 https://github.com/railsnoob/Behavioral-Cloning-Using-DNN
@@ -145,4 +147,3 @@ python drive.py model.h5
 #### 3. Code
 
 The model.py file contains the code for training and saving the convolution neural network. The file shows the pipeline I used for training and validating the model, and it contains comments to explain how the code works.
-
